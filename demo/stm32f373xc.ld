@@ -5,4 +5,5 @@ MEMORY
     RAM  (rwx): ORIGIN = 0x20000000, LENGTH = 32K
 }
 
-INCLUDE sections.ld
+
+INCLUDE sections.ld 
